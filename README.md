@@ -1,4 +1,4 @@
-# Fastboot-Tool
+# Faster-Booty
 Fastboot tool for android:3
 •Mediatek
 •Snapdragon
