@@ -1,4 +1,4 @@
-# Faster-Booty
+# Swift-Boot
 Fastboot tool for android:3
 •Mediatek
 •Snapdragon
