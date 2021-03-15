@@ -29,6 +29,7 @@ Other features like unlock the bootloader, Boot into EDL Mode, and Samsung Downl
 •Remove Xiaomi FRP
 •Remove Lenovo FRP
 •Remove Moto FRP
+
 •Remove Yuphoria FRP
 •Remove HTC FRP
 •Micromax FRP ADB Mode
