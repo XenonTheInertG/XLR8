@@ -1,0 +1,30 @@
+version = 1
+
+[[analyzers]]
+name = "python"
+enabled = true
+
+  [analyzers.meta]
+  runtime_version = "3.x.x"
+
+[[analyzers]]
+name = "javascript"
+enabled = true
+
+  [analyzers.meta]
+  style_guide = "google"
+  dialect = "typescript"
+  plugins = [
+    "react",
+    "meteor",
+    "vue",
+    "angularjs",
+    "ember",
+    "angular"
+  ]
+  environment = [
+    "nodejs",
+    "cypress",
+    "browser",
+    "jquery"
+  ]
