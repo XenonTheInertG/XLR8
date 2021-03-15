@@ -35,4 +35,4 @@ Other features like unlock the bootloader, Boot into EDL Mode, and Samsung Downl
 
 This XenonTheInertG. Highschool student satisfying his hunger:)))
 Peace;)
-
+Have a great day;)
