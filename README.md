@@ -11,30 +11,33 @@ Similarly, Mi/Redmi phone users face Mi Account lock, and this tool can also rem
 Other features like unlock the bootloader, Boot into EDL Mode, and Samsung Download Mode makes this more useful and necessary.
 
 # fastboot tool for android:3
-•Mediatek
-•Snapdragon
-•Kirin(soon)
-•ExynosExynos(soon)
-•Spreadtrum
+•Mediatek(All bit & also dimensity)
+•Snapdragon(Also supports SD 888)
+•Kirin(soon,i Couldn't break the huawei's frp system)
+•Exyno
+•Spreadtrum(UniSOC)
  -------------------------------------------
 # Swift-Boot Features
-•Remove Pattern
+•Remove Pattern,password,pin.
 •Remove Mi Account
 •Enter EDL Mode – Emergency Download Mode
 •Unlock Bootloader
 •Unlock Yureka Bootloader
 •Boot into Samsung Download Mode
 •Remove Spd FRP (Spreadtrum FRP Remove)
+(Also UniSOC)
 •Remove Qualcomm FRP (Snapdragon FRP Remove)
 •Remove Xiaomi FRP
 •Remove Lenovo FRP
-•Remove Moto FRP
+•Remove Motorola FRP(Idk if ppl use moto but it's a gem)
 
 •Remove Yuphoria FRP
 •Remove HTC FRP
 •Micromax FRP ADB Mode
+# What's Factory reset protection(frp)?
+Factory Reset Protection (FRP), is a security feature on Android devices with Android OS Version 5.1 (Lollipop) and higher. The FRP provides a built-in security feature you are able to use that protects your device and information, including screen locks and data encryptions.
 
-This XenonTheInertG. Highschool student satisfying his hunger:)))
+This XenonTheInertG,Still learning:3
 Peace;)
 Have a great day;)
 GG
