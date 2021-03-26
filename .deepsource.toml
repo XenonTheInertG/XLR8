@@ -8,25 +8,12 @@ enabled = true
   runtime_version = "3.x.x"
 
 [[analyzers]]
-name = "docker"
-enabled = true
-
-[[analyzers]]
 name = "javascript"
 enabled = true
 
   [analyzers.meta]
-  environment = [
-    "nodejs",
-    "mocha",
-    "cypress",
-    "browser",
-    "jasmine"
-  ]
   plugins = [
     "react",
-    "meteor",
-    "ember"
+    "ember",
+    "angularjs"
   ]
-  style_guide = "google"
-  dialect = "flow"
