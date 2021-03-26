@@ -62,7 +62,7 @@ Other features like unlock the bootloader, Boot into EDL Mode, and Samsung Downl
 
 
 
-This XenonTheInertG aka newbie
-Peace;)
-Have a great day;)
+I'm busy with my study rn,it'll be late,maybe too late to release. 
+Have a nice day,peace;)
+Support me by forking,starring my repository.
 GG
