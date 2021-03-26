@@ -1,9 +1,9 @@
 ---
 name: Feature request
-about: Suggest an idea for this project
+about: You can request for new features.we'll try to add it if possible;)
 title: ''
-labels: ''
-assignees: ''
+labels: question
+assignees: CrackedHeaD, XenonTheInertG, Crytox-hash, Habu-Chan
 
 ---
 
