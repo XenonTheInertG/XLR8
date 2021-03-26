@@ -16,7 +16,7 @@ The common problem faced by most android users these days is Factory Reset Prote
 Similarly, Mi/Redmi phone users face Mi Account lock, and this tool can also remove Mi Account lock from your Xiaomi phone or tablet.
 Other features like unlock the bootloader, Boot into EDL Mode, and Samsung Download Mode makes this more useful and necessary.
 
-• XLR8(Fastboot tool for android:3
+# XLR8(Fastboot tool for android:3)
 
 •Mediatek(All bit & also dimensity)
 
