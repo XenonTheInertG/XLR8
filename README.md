@@ -1,16 +1,16 @@
 # XLR8-An Android utility tools works in Fastboot
 (Not released yet,Under development,Still working,Working hard af XD)
-# Fast boot app for android reboots the shell instead of completely reloading bootloader and OS and is faster. ... On other android phones, you can use fast boot as an alternative, which will help you eliminate minor lags and free up RAM in critical times 
-# Fastboot is a tool/protocol for writing data directly to your phone's flash memory. In practical use, it is used to flash images such as recoveries, bootloaders, and kernels to your Android device. Outside of the obvious, you can also restore nandroid backups, change your splash screen, and flash system updates.
-# Why Swift-Boot?
-The most important reason to use android SWIFT BOOT  is because of its simplicity to use and features it offers. It can eliminate fingerprints from your android phone and wipes off all types of existing locks from your android phone and tablet.
+• Fast boot app for android reboots the shell instead of completely reloading bootloader and OS and is faster. ... On other android phones, you can use fast boot as an alternative, which will help you eliminate minor lags and free up RAM in critical times 
+• Fastboot is a tool/protocol for writing data directly to your phone's flash memory. In practical use, it is used to flash images such as recoveries, bootloaders, and kernels to your Android device. Outside of the obvious, you can also restore nandroid backups, change your splash screen, and flash system updates.
+# Why XLR8?
+The most important reason to use XLR8  is because of its simplicity to use and features it offers. It can eliminate fingerprints from your android phone and wipes off all types of existing locks from your android phone and tablet.
 
 The common problem faced by most android users these days is Factory Reset Protection lock a.k.a the FRP lock. Android Fastboot tool helps in deleting Google account from your phone, thus bypassing the FRP lock.
 
 Similarly, Mi/Redmi phone users face Mi Account lock, and this tool can also remove Mi Account lock from your Xiaomi phone or tablet.
 Other features like unlock the bootloader, Boot into EDL Mode, and Samsung Download Mode makes this more useful and necessary.
 
-# XLR8(Fastboot tool for android:3
+• XLR8(Fastboot tool for android:3
 •Mediatek(All bit & also dimensity)
 •Snapdragon(Also supports SD 888)
 •Kirin(soon,i Couldn't break the huawei's frp system)
