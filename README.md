@@ -17,11 +17,17 @@ Similarly, Mi/Redmi phone users face Mi Account lock, and this tool can also rem
 Other features like unlock the bootloader, Boot into EDL Mode, and Samsung Download Mode makes this more useful and necessary.
 
 • XLR8(Fastboot tool for android:3
+
 •Mediatek(All bit & also dimensity)
+
 •Snapdragon(Also supports SD 888)
+
 •Kirin(soon,i Couldn't break the huawei's frp system)
-•Exyno
+
+•Exynos
+
 •Spreadtrum(UniSOC)
+
  -------------------------------------------
 # XLR8 Features
 •Remove Pattern,password,pin.
