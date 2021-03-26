@@ -1,6 +1,10 @@
 # XLR8-An Android utility tools works in Fastboot
 (Not released yet,Under development,Still working,Working hard af XD)
+
+
 • Fast boot app for android reboots the shell instead of completely reloading bootloader and OS and is faster. ... On other android phones, you can use fast boot as an alternative, which will help you eliminate minor lags and free up RAM in critical times 
+
+
 • Fastboot is a tool/protocol for writing data directly to your phone's flash memory. In practical use, it is used to flash images such as recoveries, bootloaders, and kernels to your Android device. Outside of the obvious, you can also restore nandroid backups, change your splash screen, and flash system updates.
 # Why XLR8?
 The most important reason to use XLR8  is because of its simplicity to use and features it offers. It can eliminate fingerprints from your android phone and wipes off all types of existing locks from your android phone and tablet.
