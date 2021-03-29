@@ -60,7 +60,7 @@ Other features like unlock the bootloader, Boot into EDL Mode, and Samsung Downl
 
 •Micromax FRP ADB Mode
 
-
+Note: Some of these code are cloned from google git
 
 I'm busy with my study rn,it'll be late,maybe too late to release. 
 Have a nice day,peace;)
