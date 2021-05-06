@@ -62,7 +62,7 @@ Other features like unlock the bootloader, Boot into EDL Mode, and Samsung Downl
 
 Note: Some of these code are cloned from google git
 
-I'm busy with my study rn,it'll be late,maybe too late to release. 
+>I'm busy with my study rn,it'll be late,maybe too late to release. 
 Have a nice day,peace;)
 Support me by forking,starring my repository.
 GG
