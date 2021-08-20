@@ -97,6 +97,15 @@ The hash is stored at "/data/system/gesture.key", and (From a rooted device) can
 Let's see a basic output:
 
     ~$ python aplc.py
+           ________________________________
+           | 		 XRL8		  |
+    	   |             v1.0             |
+    	   | ---------------------------- |
+    	   |  Written by XenonTheInertG   |
+     	   |     			  |
+           |     			  |
+           |                              |
+           |______________________________|
     
     [i] Taken from: http://forensics.spreitzenbarth.de/2012/02/28/cracking-the-pattern-lock-on-android/
     
