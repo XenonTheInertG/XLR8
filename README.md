@@ -117,7 +117,15 @@ And now the output with a given gesture.key:
 
     ~$ python aplc.py gesture.sample.key 
     
-    
+           ________________________________
+           | 		 XRL8		  |
+    	   |             v1.0             |
+    	   | ---------------------------- |
+    	   |  Written by XenonTheInertG   |
+     	   |     			  |
+           |     			  |
+           |                              |
+           |______________________________|
     [i] Taken from: http://forensics.spreitzenbarth.de/2012/02/28/cracking-the-pattern-lock-on-android/
     
     [:D] The pattern has been FOUND!!! => 210345876
