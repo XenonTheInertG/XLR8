@@ -102,27 +102,18 @@ def crack(target_hash):
     ncores = multiprocessing.cpu_count()
     pool = multiprocessing.Pool(ncores)
     # generates the matrix positions IDs
-    positions = []
-    for i in range(0,MAX_LEN):
-        positions.append(i)
-    
+    positions = list(range(MAX_LEN))
     # sets the length for each worker
-    params = []
-    count = 1
-    for i in range(0,MAX_LEN):
-        params.append([count,target_hash,positions])
-        count += 1
-    
+    params = [
+        [count, target_hash, positions]
+        for count, _ in enumerate(range(MAX_LEN), start=1)
+    ]
+
     result = pool.map(lookup,params)
     pool.close()
     pool.join()
-    
-    ret = None
-    for r in result:
-        if r is not None:
-            ret = r
-            break
-    return ret
+
+    return next((r for r in result if r is not None), None)
 
 def main():
     print ''
